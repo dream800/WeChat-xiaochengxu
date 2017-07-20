@@ -1,0 +1,11 @@
+<!--about.wxml-->
+<view class="container">
+  <view  bindtap="bindViewTap" class="userinfo">
+    <image class="userinfo-avatar" src="{{img}}" background-size="cover"></image>
+  </view>
+  <br/> <br/> <br/> <br/> <br/> <br/> <br/>
+ 
+ <view class="classname">{{title}}</view>
+  <view class="classname">{{intro}}</view>
+   <view class="classname">{{phone}}</view>
+</view>

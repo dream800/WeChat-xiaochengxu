@@ -1,0 +1,12 @@
+/* pages/about/about.wxss */
+
+.userinfo-avatar{
+    position:relative;
+    /*top:-200px;
+    text-align:center;*/
+    /*padding-top:-30px;*/
+    width:100px;
+    height:100px;
+    border-radius:50px;
+    display:block;
+}
